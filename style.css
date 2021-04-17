@@ -46,6 +46,18 @@
     font-family: fantasy;
 }
 
+.origami:hover{
+    transform: scale(1.2);
+}
+
 body{
     background-color: whitesmoke;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
 }
